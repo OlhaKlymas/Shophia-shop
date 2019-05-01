@@ -258,7 +258,7 @@ button {
 	margin-top: 50px;
 	margin-bottom: 100px;
 }
-.advantages-wrap {
+.advantages-wrap, .advantag {
 	height: 100px;
 	display: flex;
 	flex-direction: row;
@@ -266,7 +266,6 @@ button {
 }
 .advantag {
 	width: 33%;
-	height: 100px;
     overflow: hidden;
 }
 .advantag>.advantag-icon {
