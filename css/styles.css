@@ -283,20 +283,20 @@ button {
 .adv>.adv-icon .fas {
 	transform: rotate(-45deg);
 }
-.adv-text {
+.advan-text {
 	display: flex;
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
 }
-.adv-text>h3, .adv-text>p {
+.advan-text>h3, .advan-text>p {
 	color: #fff;
 }
-.adv-text>h3 {
+.advan-text>h3 {
 	font-size: 1.8em;
 	text-transform: uppercase;
 }
-.adv-text>p {
+.advan-text>p {
 	font-size: 14px;
 	text-transform: capitalize;
 }
