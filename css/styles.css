@@ -260,13 +260,14 @@ button {
 }
 .advantages-wrap, .advantag {
 	height: 100px;
+}
+.advantag {
+	height: 100px;
+	width: 33%;
+    overflow: hidden;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-}
-.advantag {
-	width: 33%;
-    overflow: hidden;
 }
 .advantag>.advantag-icon {
 	margin: auto 0;
