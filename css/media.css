@@ -1,0 +1,5 @@
+@media only screen and (max-width: 1135px) {
+	.header-top-bar, .header-title-bar, .adv-wrap, .grid, .footer-wrap, .footer-bottom {
+		width: calc(100% - 140px);
+	}
+}
