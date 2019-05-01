@@ -15,7 +15,7 @@ a {
 	height: 100%;
 	background-color: #f2f2f2;
 }
-.header-top-bar, .header-title-bar, .adv-wrap, .grid, .footer-wrap, .footer-bottom {
+.header-top-bar, .header-title-bar, .advantages-wrap, .grid, .footer-wrap, .footer-bottom {
 	width: calc(100% - 150px);
 }
 .header-top-bar {
@@ -258,10 +258,10 @@ button {
 	margin-top: 50px;
 	margin-bottom: 100px;
 }
-.adv-wrap {
+.advantages-wrap {
 	height: 100px;
 }
-.adv {
+.advantag {
 	width: 33%;
 	height: 100px;
 	display: flex;
@@ -269,34 +269,34 @@ button {
 	flex-wrap: wrap;
     overflow: hidden;
 }
-.adv>.adv-icon {
+.advantag>.advantag-icon {
 	margin: auto 0;
 }
-.adv:first-child>.adv-icon .fas, .adv>.adv-icon .far {
+.advantag:first-child>.advantag-icon .fas, .advantag>.advantag-icon .far {
 	padding: 20px;
 }
-.adv>.adv-icon .fas, .adv>.adv-icon .far {
+.advantag>.advantag-icon .fas, .advantag>.advantag-icon .far {
 	font-size: 40px;
 	color: #fff;
 	padding: 20px 20px 20px 60px;
 }
-.adv>.adv-icon .fas {
+.adadvantag>.advantag-icon .fas {
 	transform: rotate(-45deg);
 }
-.advan-text {
+.aadvantag-text {
 	display: flex;
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
 }
-.advan-text>h3, .advan-text>p {
+.advantag-text>h3, .advantag-text>p {
 	color: #fff;
 }
-.advan-text>h3 {
+.advantag-text>h3 {
 	font-size: 1.8em;
 	text-transform: uppercase;
 }
-.advan-text>p {
+.advantag-text>p {
 	font-size: 14px;
 	text-transform: capitalize;
 }
