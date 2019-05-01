@@ -262,7 +262,6 @@ button {
 	height: 100px;
 }
 .advantag {
-	height: 100px;
 	width: 33%;
     overflow: hidden;
 	display: flex;
@@ -283,7 +282,7 @@ button {
 .adadvantag>.advantag-icon .fas {
 	transform: rotate(-45deg);
 }
-.aadvantag-text {
+.advantag-text {
 	display: flex;
     flex-wrap: wrap;
     flex-direction: column;
